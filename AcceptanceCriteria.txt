@@ -1,0 +1,16 @@
+--All Acceptance criteria were met
+
+Code was pushed to a Git repository
+
+Project was documented and documentation is up-to-date (README contains what is the goal of this project,
+how to run it etc)
+
+//Dependencies configured in the project are latest official version and are supported by each other 
+
+//Clean code and Java best coding practices were followed
+
+Code was peer-reviewed
+
+//All theoretical questions can be answered
+
+//SOLID principles
